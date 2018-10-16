@@ -25,12 +25,6 @@ const Header = (props) => {
 		</li>
 
 		<li className = "nav-item">
-		<Link to = "/contact/edit" className = "nav-link">
-		Edit Contact
-		</Link>
-		</li>
-
-		<li className = "nav-item">
 		<Link to = "/about" className = "nav-link">
 		About
 		</Link>
